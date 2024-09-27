@@ -1,6 +1,6 @@
-# whatsapp-chat-analysis
- WhatsApp chat analysis explores message patterns, response times, and word usage to uncover communication trends. It helps understand social dynamics or business interactions through data insights.
-SCREENSHORTS HERE-
+[cooltext467106186393325](https://github.com/user-attachments/assets/b96b5874-cbfd-4af8-b4bf-6a51f588f0fc)
+ WhatsApp chat analysis explores message patterns, response times, and word! usage to uncover communication trends. It helps understand social dynamics or business interactions through data insights.
+
 ![SCR-1](https://github.com/user-attachments/assets/3bd8649b-15c3-48ed-9dc3-7a8b2e0c576d)
 ![SCR-2](https://github.com/user-attachments/assets/180fac71-4c37-430c-bfa0-59e117c2c27d)
 ![SCR-3](https://github.com/user-attachments/assets/80b2f4ed-a479-4bdc-910f-141ac52dd3eb)
