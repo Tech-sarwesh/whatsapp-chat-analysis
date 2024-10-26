@@ -4,6 +4,11 @@ import helper
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+st.set_page_config(
+    page_title="Tech-Sarwesh",
+    page_icon="favicon.ico",
+)
+
 
 st.sidebar.title("Whatsapp Chat Analysis ~ Tech Sarwesh 😉")
 
