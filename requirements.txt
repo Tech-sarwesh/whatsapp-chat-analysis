@@ -1,3 +1,4 @@
 streamlit
 urlextract
 emoji
+seaborn
